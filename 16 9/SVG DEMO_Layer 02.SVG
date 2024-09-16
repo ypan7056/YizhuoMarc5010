@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- Generator: Grasshopper 1.0.0, Redback Plugin. SVG Version: 6.00 Build 0) Made by Andrew Butler at Cox Architecture -->
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    width="420mm" height="297mm" viewBox="0 0 420 297" xml:space="preserve">
+    <style type="text/css">
+    *{
+fill: none;
+stroke: #e31212;
+stroke-width: 0.1mm;
+stroke-linejoin: round;
+}
+
+
+[layer="Default"]{
+stroke-width: 0.25mm;
+stroke-dasharray: 0.5mm 0.1mm;
+}
+
+
+[layer="Layer 02"]{
+stroke-width: 0.5mm;
+fill: #7a5f5f;
+}
+    </style>
+    <path spline_1deg="" d=" M211.58,112.53 L194.98,112.72 L177.46,130.38 L194.64,148.78Z" layer="Layer 02"/>
+<path spline_1deg="" d=" M197.85,152.22 L209.41,164.62 L202.77,176.03 L223.70,174.33Z" layer="Layer 02"/>
+    </svg>
